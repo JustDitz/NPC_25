@@ -79,13 +79,3 @@ int main() {
 
     return 0;
 }
-
-// 2
-// 3 8
-// wa wi wu
-// 2 6
-// wi wa
-
-// 1
-// 5 100
-// wi wu wa wi wi
